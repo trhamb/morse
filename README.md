@@ -1,6 +1,6 @@
 # morse
 
-A simple Web Accessibility Checker
+A Simple Web Accessibility Checker
 
 ## Roadmap
 
