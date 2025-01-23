@@ -5,6 +5,7 @@ A simple Web Accessibility Checker
 ## Roadmap
 
 -   Image Alt-text Checks
+-   Page Structure Checks
 -   Font Checks
     -   Font sizing
     -   Font colours
