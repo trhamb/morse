@@ -1,0 +1,2 @@
+Decorative Images: Check for empty alt="" on purely decorative images (usually inside elements like <img class="decorative">). Decorative images should have empty alt text and not be focusable by screen readers.
+
